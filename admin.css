@@ -1,0 +1,21 @@
+h2{
+    font-size: 35px;
+    text-align: center;
+    color: rebeccapurple;
+    border:3px solid rebeccapurple;
+    padding : 5px;
+    border-radius: 10px;
+    width: 30%;
+    margin: auto;
+}
+p{
+    background-color:rgb(37, 158, 158);
+    margin-top: 50px;
+    font-size: 35px;
+}
+a{
+    text-decoration: none;
+    
+
+    color:gold;
+}

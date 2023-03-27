@@ -1,0 +1,33 @@
+body{
+    background-image: url(img/bg_login.jpg);
+    background-size: cover;
+}
+.text{
+    border-radius: 5px;
+    padding: 20px;
+    border: solid thin blue;
+    width: 70%;
+    margin: 20px;
+}
+
+.button{
+    border-radius: 20px;
+    padding : 10px;
+    width: 100px;
+    color: white;
+    background-color: slateblue;
+    border: none;
+    margin: 20px;
+}
+
+.box{
+    border-radius: 20px;
+    border: solid 3px black;
+    background-color: #ffd6f3;
+    margin: auto;
+    margin-top: 90px;
+    width: 400px;
+    padding: 15px;
+    text-align: center;
+    height: 500px;
+}
